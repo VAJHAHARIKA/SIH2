@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SIH</string>
+    <string name="country_prompt">Choose a State</string>
+
+    <string-array name="country_arrays">
+        <item>Select State</item>
+        <item>Telangana</item>
+        <item>Andhra Pradesh</item>
+    </string-array>
+</resources>
